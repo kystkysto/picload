@@ -1,0 +1,25 @@
+{
+  "name": "picload",
+  "version": "0.0.0",
+  "authors": [
+    "kystkysto <yfimsolovey@narod.ru>"
+  ],
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.8",
+    "bootstrap": "~3.3.1",
+    "ng-flow": "~2",
+    "karma": "~0.3.0",
+    "jasmine": "~2.1.3",
+    "angular-mocks": "~1.3.8"
+  }
+}
